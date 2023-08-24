@@ -10,7 +10,7 @@
   "author": "Zeeshan Mehdi",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1400.0",
+    "aws-sdk": "^2.1428.0",
     "axios": "^1.4.0",
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
